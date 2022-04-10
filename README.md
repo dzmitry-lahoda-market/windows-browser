@@ -11,7 +11,7 @@ It will allow to search # tags like chrome-extension://edpeidcfjfepdgdjnodefckgd
 
 Also it will allow to tag via https://github.com/Dijji/FileMeta, so no name changes neeed.
 
-Bookmarked links are possible to sync via syncthing.
+Bookmarked links are possible to sync via syncthing. It will give each file unique global location and mapping.
 
 Hooks into file Explorer Open menu via Win32API so that when any application ask to open file, it is immediately searchable. For hook example look into https://www.dcsoft.com/Products/RegEditX  .
 
